@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "e729",
+      "fname": "jhon",
+      "lname": "mike",
+      "gender": "male",
+      "language": [
+        "english"
+      ],
+      "email": "jhon@gmail.com"
+    },
+    {
+      "id": "348c",
+      "fname": "mike",
+      "lname": "tyson",
+      "gender": "male",
+      "language": [
+        "english"
+      ],
+      "email": "mike@gmail.com"
+    }
+  ]
+}

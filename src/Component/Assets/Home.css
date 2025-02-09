@@ -1,0 +1,479 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.main-content {
+    background-color: #f7f7fb;
+    height: 1131px;
+    margin: auto;
+    padding-bottom: 40px;
+    /* font-family: Roboto; */
+}
+
+.heading {
+    width: 50%;
+    margin: auto;
+}
+
+.heading h1 {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    font-size: 50px;
+}
+
+.heading .info {
+    font-size: 18px;
+}
+
+.button {
+    height: 56px;
+}
+
+.btn-gap {
+    margin-left: 24px;
+}
+
+.organize {
+    margin-top: 32px;
+    color: #fff;
+    /* display: flex; */
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.main-info {
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.light {
+    color: #ff9faa;
+}
+.greater-than{
+   display: flex;
+   align-items: center;
+   margin-top: 11rem;
+   padding: 10px;
+   justify-content: space-between;
+}
+.carsoullogo{
+  margin-top: 10rem;
+  text-align: left;
+  padding: 10px;
+}
+.content {
+    background-color: #ff3e54;
+    border-radius: 26.27px;
+    width: 774.51px;
+    height: 640.68px;
+    padding: 52.73px;
+}
+
+.info {
+    margin-bottom: 36.25px;
+}
+.content-info {
+    font-size: 98.87px;
+    width: 669.04px;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    letter-spacing: -2px;
+    line-height: 98.87px;
+}
+.para {
+    text-align: left;
+    font-size: 19.77px;
+    opacity: 80%;
+}
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.buttons {
+    margin-top: 86px;
+    text-align: left;
+
+}
+.getstarted {
+    width: 182px;
+    height: 56px;
+    padding: 0;
+    margin-right: 24px;
+}
+.relative{
+    position: relative;
+   background-image: url('../Static//person.png');
+   background-position: center;
+   height: 643px;
+   background-size: cover;
+   background-color: red;
+}
+.learn {
+    width: 182px;
+    height: 56px;
+    padding: 0;
+    margin: 0;
+}
+.button1 {
+    width: 178.73px;
+    background-color: #fff;
+    border-radius: 81.57px;
+    line-height: 20.76px;
+    padding: 16.48px;
+    border: none;
+}
+.button2 {
+    width: 178.73px;
+    margin-left: 13.18px;
+    background-color: #ff5165;
+    border-radius: 81.57px;
+    color: #fff;
+    line-height: 20.76px;
+    padding: 16.48px;
+    border: none;
+}
+.carsoul {
+    width: 379.01409912109375px;
+    margin-left: 16.48px;
+    height: 642.6760864257812px;
+}
+.social-media {
+    margin-top: 48.32px;
+    color: #170F49;
+    margin-left: 48.65px;
+    margin-right: 49.54px;
+    margin-bottom: 40px;
+}
+.transform {
+    height: 644px;
+    margin-top: 82px;
+    margin-bottom: 80px;
+}
+.transform h4 {
+    font-size: 40px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.cards {
+    background-color: #f7f7f7;
+    width: 263px;
+    height: 334px;
+}
+.card {
+    height: 289px;
+
+}
+.tool {
+    font-size: 18px;
+}
+.card1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px 35px 30px;
+}
+.img {
+    height: 80px;
+    width: 80px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.im {
+    padding: 4.99px 15px 25.34px 15px;
+}
+.user {
+    font-size: 18px;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+.line {
+    height: 6px;
+    width: 60px;
+    background-color: #FF3E54;
+    border-radius: 6px;
+}
+.lines {
+    margin-left: 30px;
+    display: flex;
+}
+.line2 {
+    margin-left: 10px;
+    height: 6px;
+    width: 20px;
+    background-color: #ff3e54;
+    border-radius: 6px;
+}
+.card-info {
+    font-size: 16px;
+    width: 203px;
+    height: 97px;
+    margin: 0;
+    margin-left: 30px;
+    margin-bottom: 35px;
+}
+.user2 {
+    width: 223px;
+    margin-left: 30px;
+    margin-bottom: 6px;
+}
+.number {
+    font-size: 48px;
+    margin-top: 10px;
+    margin: 0;
+    opacity: 10%;
+}
+.Customer {
+    text-align: left;
+    margin: 40px 150px 80px 150px;
+}
+.cust {
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.boxes {
+    position: relative;
+    display: flex;
+    margin-top: 64px;
+}
+.box1 {
+    width: 471px;
+    height: 590px;
+    border: 16px solid #FF3E54;
+}
+.box2 {
+    width: 1085px;
+    height: 490px;
+    top: 50px;
+    left: 55px;
+    position: absolute;
+    z-index: 9;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    justify-content: space-between;
+}
+.box-heading {
+    font-size: 36px;
+    width: 557px;
+}
+.box-content {
+    margin-top: 6.5px;
+    margin-bottom: 93.5px;
+    padding-left: 60px;
+    width: 557px;
+    height: 144px;
+}
+.box-img {
+    width: 348px;
+    height: 370px;
+    border: 16px solid #FF3E54;
+    position: relative;
+    border-top-left-radius: 10px #fff;
+    border-left: 0px;
+}
+.image {
+    width: 330px;
+    height: 330px;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+.girlimg {
+    overflow: hidden;
+    width: 100%;
+    padding: 20px 8px 1px 10px;
+    height: 99%;
+    box-sizing: border-box;
+    position: absolute;
+}
+.box-content-2 {
+    width: 30px;
+    height: 30px;
+    margin-top: 30px;
+    background-color: #FF3E54;
+
+}
+.line3 {
+    width: 60px;
+    border: 1px solid #202020;
+    position: relative;
+    top: 14px;
+    left: 15px;
+    border-width: 1px;
+}
+.customer-detail {
+    width: 192px;
+    height: 49px;
+    height: 49px;
+    margin-left: 85px;
+    margin-top: 30px;
+}
+.box-content1 {
+    display: flex;
+    align-items: center;
+}
+.previous {
+    height: 40px;
+    width: 40px;
+    margin-top: 40px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #FF3E54;
+    border-radius: 30px;
+}
+.next {
+    height: 40px;
+    width: 40px;
+    margin-top: 40px;
+    background: #fff;
+    margin-left: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #FF3E54;
+    border-radius: 30px;
+}
+.uncover {
+    width: 585px;
+    height: 395px;
+    display: flex;
+    align-items: center;
+}
+.uncover img {
+    width: 100%;
+    height: 100%;
+}
+.uncovers {
+    display: flex;
+    align-items: center;
+}
+.cust2 {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 57.6px;
+    letter-spacing: 0%;
+
+}
+.uncover-para {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    margin-top: 24px;
+}
+.uncover-content {
+    width: 585px;
+    height: 395px;
+    margin-left: 16px;
+    display: flex;
+    align-items: center;
+}
+.un-content {
+    width: 553px;
+    height: 194px;
+    margin-bottom: 24px;
+}
+.unvover-buttons {
+    margin-top: 44px;
+}
+.uncover-button1 {
+    width: 104px;
+    height: 48px;
+    border-width: 1px;
+    background-color: #FF3E54;
+    font-size: 16px;
+    border: 1px solid #FF3E54;
+    color: #fff;
+    margin-right: 16px;
+}
+.uncover-button2 {
+    width: 104px;
+    height: 48px;
+    border-width: 1px;
+    border: 1px solid #FF3E54;
+    background-color: #fff;
+    font-size: 16px;
+    margin-right: 16px;
+}
+.modal-content{
+    width: 569px;
+height: 690px;
+/* top: 1257px;
+left: 419px; */
+border-radius: 12px;
+border-width: 1px;
+padding: 19px;
+/* margin-bottom: 20px; */
+text-align: left;
+border: none;
+
+}   
+.from-detail{
+    width: 255px;
+height: 74px;
+
+
+}
+.name-detail{
+    width: 487px;
+height: 74px;
+gap: 12px;
+}
+.input{
+    width: 220px;
+height: 48px;
+border-radius: 4px;
+padding: 8px;
+background-color: #ffeef0;
+border: none;
+
+}
+.language{
+    width: 133px;
+height: 40px;
+border-radius: 4px;
+gap: 10px;
+padding-top: 8px;
+padding-right: 12px;
+padding-bottom: 8px;
+padding-left: 12px;
+margin-bottom: 8px;
+background-color: #ffeef0;
+
+}
+table {
+    width: 1169px;
+    height: 187.04px; /* No need for extra precision */
+    border-radius: 11.69px;
+    box-shadow: 
+        0px 2.3px 7.57px 0px #00000005,
+        0px 10.52px 21.28px 0px #00000008,
+        0px 26.63px 57.08px 0px #0000000A,
+        0px 52.61px 130.93px 0px #0000000F;
+}
+thead{
+    background: #F5F5F5;
+}
+tr,tbody{
+
+height: 70.13999938964844px;
+/* border-width:  */
+border-bottom: 1.17px solid black;
+gap: 23.38px;
+padding-right: 23.38px;
+padding-left: 23.38px;
+
+}
